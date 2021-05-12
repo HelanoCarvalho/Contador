@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(109, 178, 243);
+    font: normal 15pt Arial;
+    
+}
+header{
+    color: #fff;
+    text-align: center;
+}
+section{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.616);
+}
+
+div{
+    text-align: center;
+}
+
+label{
+    margin-left: 100px;
+    float: left;
+    width: 1px;
+}
+
+input{
+    border: solid 1px;
+    width: 200px;
+}
+
+input:focus{
+    outline: none;
+}
+
